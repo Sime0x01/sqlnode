@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="#about">About</a> •
-    <a href="#installation">Installation</a>
+    <a href="#installation">Installation</a> •
     <a href="#license">License</a>
 </p>
 
